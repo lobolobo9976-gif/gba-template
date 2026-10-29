@@ -1,7 +1,7 @@
 ####################
 # main configuration
 ####################
-PROGRAM   := helloworld
+PROGRAM   := AnimeLegends
 
 INC_DIR   := include
 SRC_DIR   := src
@@ -16,7 +16,7 @@ UART_DEV  := /dev/ttyUSB0
 #########################
 # game header information
 #########################
-TITLE		:= helloworld
+TITLE		:= ANIME LEGENDS
 GAME_CODE   := EAAE
 MAKER_CODE  := 01
 REVISION    := 0
